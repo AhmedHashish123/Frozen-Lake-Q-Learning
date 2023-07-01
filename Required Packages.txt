@@ -1,0 +1,8 @@
+numpy:
+pip install numpy
+
+gym (to use the game's environment):
+pip install gym==0.17.3
+
+IPython (to clear the screen output):
+pip install ipython
